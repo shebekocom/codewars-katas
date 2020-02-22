@@ -1,6 +1,6 @@
 const isPalindrome = require('.');
 
-// describe('Palindrome', () => {
+describe('Palindrome', () => {
   test('Test 1', () => {
     expect(isPalindrome('anna')).toBeTruthy();
   });
@@ -24,4 +24,4 @@ const isPalindrome = require('.');
   test('Test 6', () => {
     expect(isPalindrome('.!!.')).toBeTruthy();
   });
-// });
+});
