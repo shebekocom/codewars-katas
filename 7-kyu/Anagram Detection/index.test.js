@@ -8,7 +8,6 @@ describe('Anagram Detection', () => {
   test('The word Buckethead is an anagram of DeathCubeK', () => {
     expect(isAnagram('Buckethead', 'DeathCubeK')).toBeTruthy();
   });
-
   test('The word Twoo is an anagram of WooT', () => {
     expect(isAnagram('Twoo', 'WooT')).toBeTruthy();
   });

@@ -5,6 +5,16 @@
 - Kata: is an algorithm you have to solve in any programming language you desire
 - Kyu: is a digit that determines kata difficulty level as well as the user rank on the platform
 
+## Complete Task 8-kyu
+
+- Palindrome Strings
+- Remove First and Last Character
+
+## Complete Task 7-kyu
+
+- Anagram Detection
+- Birthday I - Cake
+
 ### Similar Plattforms for training
 
 - [HackerRank](https://www.hackerrank.com)
