@@ -10,6 +10,7 @@
 - Palindrome Strings (String)
 - Remove First and Last Character (String)
 - Even or Odd (Number)
+- Century From Year (Number)
 
 ## Complete Task 7-kyu
 
