@@ -7,13 +7,14 @@
 
 ## Complete Task 8-kyu
 
-- Palindrome Strings
-- Remove First and Last Character
+- Palindrome Strings (String)
+- Remove First and Last Character (String)
+- Even or Odd (Number)
 
 ## Complete Task 7-kyu
 
-- Anagram Detection
-- Birthday I - Cake
+- Anagram Detection (String)
+- Birthday I - Cake (String)
 
 ### Similar Plattforms for training
 
