@@ -16,6 +16,7 @@
 
 - Anagram Detection (String)
 - Birthday I - Cake (String)
+- Greatest common divisor (Number)
 
 ### Similar Plattforms for training
 
