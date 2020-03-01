@@ -18,6 +18,7 @@
 - Birthday I - Cake (String)
 - Greatest common divisor (Number)
 - Factorial (Number)
+- Find The Duplicated Number in a Consecutive Unsorted List (Number)
 
 ### Similar Plattforms for training
 
