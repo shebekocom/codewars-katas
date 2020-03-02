@@ -21,6 +21,7 @@
 - Greatest common divisor (Number)
 - Factorial (Number)
 - Find The Duplicated Number in a Consecutive Unsorted List (Number)
+- Fizz Buzz (Array)
 
 ## Complete Task 6-kyu
 
