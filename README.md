@@ -12,6 +12,7 @@
 - Even or Odd (Number)
 - Century From Year (Number)
 - Remove duplicates from list (Array)
+- Sum of positive (Array)
 
 ## Complete Task 7-kyu
 
