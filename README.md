@@ -20,6 +20,10 @@
 - Factorial (Number)
 - Find The Duplicated Number in a Consecutive Unsorted List (Number)
 
+## Complete Task 6-kyu
+
+- Is a number prime? (Number)
+
 ### Similar Plattforms for training
 
 - [HackerRank](https://www.hackerrank.com)
