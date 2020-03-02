@@ -11,6 +11,7 @@
 - Remove First and Last Character (String)
 - Even or Odd (Number)
 - Century From Year (Number)
+- Remove duplicates from list (Array)
 
 ## Complete Task 7-kyu
 
