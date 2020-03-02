@@ -23,6 +23,7 @@
 - Find The Duplicated Number in a Consecutive Unsorted List (Number)
 - Fizz Buzz (Array)
 - Currying functions: multiply all elements in an array (Array)
+- Shortest Word (Array)
 
 ## Complete Task 6-kyu
 
