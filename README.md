@@ -13,6 +13,7 @@
 - Century From Year (Number)
 - Remove duplicates from list (Array)
 - Sum of positive (Array)
+- Simple validation of a username with regex (Regex)
 
 ## Complete Task 7-kyu
 
