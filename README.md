@@ -24,6 +24,7 @@
 - Fizz Buzz (Array)
 - Currying functions: multiply all elements in an array (Array)
 - Shortest Word (Array)
+- Square Every Digit (Array)
 
 ## Complete Task 6-kyu
 
