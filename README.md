@@ -33,6 +33,7 @@
 ## Complete Task 6-kyu
 
 - Is a number prime? (Number)
+- Count characters in your string (Object)
 
 ### Similar Plattforms for training
 
