@@ -25,6 +25,7 @@
 - Currying functions: multiply all elements in an array (Array)
 - Shortest Word (Array)
 - Square Every Digit (Array)
+- Easy mathematical callback  (Array)
 
 ## Complete Task 6-kyu
 
