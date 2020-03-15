@@ -26,7 +26,8 @@
 - Currying functions: multiply all elements in an array (Array)
 - Shortest Word (Array)
 - Square Every Digit (Array)
-- Easy mathematical callback  (Array)
+- Easy mathematical callback (Array)
+- Regexp Basics - is it a letter? (Regex)
 
 ## Complete Task 6-kyu
 
