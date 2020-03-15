@@ -28,6 +28,7 @@
 - Square Every Digit (Array)
 - Easy mathematical callback (Array)
 - Regexp Basics - is it a letter? (Regex)
+- Regexp Basics - is it a vowel? (Regex)
 
 ## Complete Task 6-kyu
 
